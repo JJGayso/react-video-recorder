@@ -809,7 +809,6 @@ export default class VideoRecorder extends Component {
             muted
             playsInline
           />
-          {switchCameraControl}
         </CameraView>
       )
     }
